@@ -1,2 +1,2 @@
 # eBank
-eBank is a basic banking software developed on Spring Boot and React
+eBank is a basic banking software developed on Spring Boot and ReactJS.
